@@ -1,5 +1,5 @@
 import NumberGuesserGame from "./components/numberGuessingGame.jsx";
-import "./App.css";
+import "./index.css";
 
 export default function Home() {
   return (
