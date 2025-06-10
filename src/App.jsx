@@ -3,6 +3,7 @@ import { useEffect } from "react";
 import React from "react";
 import NumberGuesserGame from "./components/numberGuessingGame";
 
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
