@@ -4,8 +4,6 @@ import { useState, useEffect } from "react"
 import { Button } from "./ui/button";
 import { Input } from "./ui/input"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "./ui/card"
-// import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
-// import { Label } from "@/components/ui/label"
 import { AlertCircle, ThumbsUp, ThumbsDown } from "lucide-react"
 
 // This is our main game component
